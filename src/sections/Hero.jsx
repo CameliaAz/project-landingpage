@@ -11,7 +11,7 @@ export default function Hero() {
   bg-gradient-to-b from-[#6b0000] via-[#3b0000]/60 to-transparent 
   opacity-90 z-0 pointer-events-none" 
       />
-
+      
       {/* HERO */}
       <div className="relative z-0 min-h-screen flex items-center justify-center text-left px-6 pt-24">
         <FlowerCenter />
