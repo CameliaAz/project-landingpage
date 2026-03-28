@@ -18,7 +18,7 @@ export default function Hero() {
         <div className="relative z-10 container-custom section-padding flex flex-col gap-2 sm:gap-6 md:gap-10">
 
           {/* ROW 1 */}
-          <div className="w-full flex justify-start">
+          <div className="w-full flex justify-start mt-16">
             <div className="flex items-center gap-4 sm:gap-6 md:gap-10">
               <motion.h1
                 className="relative z-10 text-4xl xs:text-5xl sm:text-6xl md:text-8xl 

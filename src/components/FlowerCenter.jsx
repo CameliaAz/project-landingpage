@@ -7,7 +7,7 @@ export default function FlowerCenter() {
         <img
           src="/assets/bungarambat.png"
           alt="bungarambat kiri"
-          className="absolute -top-40 xs:-top-56 md:-top-80 right-1/2 
+          className="absolute -top-10 xs:-top-20 sm:-top-40 md:-top-80 right-1/2 
                      w-[160px] xs:w-[220px] sm:w-[380px] md:w-[670px] object-contain"
         />
 
@@ -15,7 +15,7 @@ export default function FlowerCenter() {
         <img
           src="/assets/bungarambat.png"
           alt="bungarambat kanan"
-          className="absolute -top-40 xs:-top-56 md:-top-80 left-1/2 
+          className="absolute -top-10 xs:-top-20 sm:-top-40 md:-top-80 left-1/2 
                      w-[160px] xs:w-[220px] sm:w-[380px] md:w-[670px] object-contain scale-x-[-1]"
         />
 
@@ -23,8 +23,8 @@ export default function FlowerCenter() {
         <img
           src="/assets/bunga1.png"
           alt="center flower"
-          className="absolute top-6 md:top-10 left-1/2 -translate-x-1/2 
-                     w-16 xs:w-20 md:w-28 lg:w-34 z-20"
+          className="absolute top-2 xs:top-4 md:top-10 left-1/2 -translate-x-1/2 
+                     w-14 xs:w-16 md:w-28 lg:w-34 z-20"
         />
       </div>
     </div>
