@@ -11,13 +11,13 @@ export default function Card() {
         opacity-60 blur-[120px] z-0 pointer-events-none" 
       />
 
-      {/* Layer 2: Glow Putih Dominan (Pusat Cahaya Terang) */}
+    
       <div className="absolute -top-[120px] left-1/2 -translate-x-1/2 w-[80%] md:w-[60%] h-[250px] 
         bg-[radial-gradient(ellipse_at_center,_rgba(255,255,255,0.2)_0%,_rgba(255,255,255,0.05)_40%,_transparent_70%)] 
         opacity-100 blur-[60px] z-0 pointer-events-none" 
       />
 
-      {/* Layer 3: Highlight Putih Tajam di Titik Transisi */}
+      
       <div className="absolute -top-[50px] left-[85%] -translate-x-1/2 w-[100%] md:w-[80%] h-[100px] 
   bg-[radial-gradient(ellipse_at_center,_rgba(255,255,255,0.35)_0%,_transparent_90%)] 
   opacity-100 blur-[40px] z-0 pointer-events-none"

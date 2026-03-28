@@ -20,7 +20,7 @@ export default function Hero() {
         {/* Konten teks */}
         <div className="relative z-10 flex flex-col w-full max-w-6xl gap-4 md:gap-0 py-40">
 
-          {/* ROW 1: Menjorok ke Kiri */}
+          {/* ROW 1*/}
           <div className="w-full flex justify-start px-8 sm:px-16 md:px-32">
             <div className="flex items-center gap-6 sm:gap-10">
 
@@ -50,7 +50,7 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* ROW 2: Menjorok ke Kanan */}
+          {/* ROW 2 */}
           <div className="w-full flex justify-end pr-8 sm:pr-16 md:pr-24">
             <div className="flex items-center gap-6 sm:gap-10">
               {/* BUNGA ROW 2 */}
